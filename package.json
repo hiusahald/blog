@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiusahald/blog.git"
+  },
+  "author": "hiusahald",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiusahald/blog/issues"
+  },
+  "homepage": "https://github.com/hiusahald/blog#readme"
+}
